@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "ejemplo-react-vite-github-deploy",
+  base: "ejemplo-react-vite-github-deploy12345",
 })
